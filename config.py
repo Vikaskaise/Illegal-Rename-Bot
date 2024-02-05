@@ -59,7 +59,7 @@ class Txt(object):
     ABOUT_TXT = """<b>╭───────────⍟
 ├🤖 ᴍy ɴᴀᴍᴇ : {}
 ├🖥️ Dᴇᴠᴇʟᴏᴩᴇʀꜱ : <a href=https://t.me/vikasTime>**ᴅᴇᴠᴇʟᴏᴘᴇʀ**</a> 🕷
-├👨‍💻 Pʀᴏɢʀᴀᴍᴇʀ : **ᴋᴜɴᴀʟ ꜱɪɴɢʜ**
+├👨‍💻 Pʀᴏɢʀᴀᴍᴇʀ : **Vikas TIME**
 ╰───────────────⍟ """
 
     HELP_TXT = """
@@ -88,8 +88,8 @@ Exᴀᴍᴩʟᴇ:- /set_caption 📕 Fɪʟᴇ Nᴀᴍᴇ: {filename}
 
 #⚠️ Dᴏɴ'ᴛ Rᴇᴍᴏᴠᴇ Oᴜʀ Cʀᴇᴅɪᴛꜱ @vikasTime🙏🥲
     DEV_TXT = """<b><u>Sᴩᴇᴄɪᴀʟ Tʜᴀɴᴋꜱ & Dᴇᴠᴇʟᴏᴩᴇʀꜱ</b></u>
-»<a href=https://t.me/IllegalDeveloperBot>**ᴅᴇᴠᴇʟᴏᴘᴇʀ**</a>🕷
-»**Kunal Singh ♡**"""
+»<a href=https://t.me/vikasTime>**ᴅᴇᴠᴇʟᴏᴘᴇʀ**</a>🕷
+»**Vikas Time ♡**"""
 
     PROGRESS_BAR = """<b>\n
 ╭━━━━❰ᴘʀᴏɢʀᴇss ʙᴀʀ❱━➣
